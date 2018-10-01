@@ -1,3 +1,5 @@
+# Finbot
+
 *The repository on Github contains no code. Please visit http://fossil.barbarito.me/finbot/ to view the main repository*
 
 Finbot is a personal finance tool. Use it to manage your accounts, budget, and stock portfolio. Features include real-time stock tracking, transaction reports, and budgeting.
